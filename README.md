@@ -1,6 +1,6 @@
 # Family Relationship Mapping
 
-Using the N-nary tree data structure it creates a familuy tree.
+Using the N-nary tree data structure it creates a family tree.
 
 -- This takes parents name and child name as input to, insert the child to the parent node.
 
