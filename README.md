@@ -14,4 +14,12 @@ Using the N-nary tree data structure it creates a familuy tree.
 -- We are using the csv file to store the family members data temporarily, just to display them while inserting a new child to tree for existing 
     parent names.
 
+## Output
+
+### Entering initial member into the family tree
+
+-- The member doesn't have any parent, we call this member the <strong>Supreme</strong>
+
+<img>
+
 (END)
